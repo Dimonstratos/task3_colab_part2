@@ -1,4 +1,4 @@
-<p><img src="aboutme/../ImgDP.jpg" width="400" height="430"></p>
+<p><img src="aboutme/../ImgDP.jpg" width="390" height="430"></p>
 
 ## Здравствуйте! Меня зовут Мулюков Дмитрий.
 
